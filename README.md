@@ -1,5 +1,5 @@
 # Lead-Scoring-Case-Study
-X Education is a platform which sells online courses to industry professionals. 
+1. X Education is a platform which sells online courses to industry professionals. 
 
 2. People on this platform fill up a form providing their email address or phone number, they are classified to be a lead.
  
